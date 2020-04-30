@@ -10,7 +10,10 @@ Part of an optional assignment from CV class which had 3 components
 
 ![alt text](https://github.com/emiljoswin/Image-Captioning-VAEs-and-GANs-for-face-generation/blob/master/sample3.png)
 
-3. Face generation using GANs - only so much processing power on my computer then.
+3. Face generation using GANs - This is all I could get with the processing power on my computer then. There are clear
+facial features visible though.
+
+![alt text](https://github.com/emiljoswin/Image-Captioning-VAEs-and-GANs-for-face-generation/blob/master/sample4.png)
 
 
 
